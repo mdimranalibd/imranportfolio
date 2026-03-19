@@ -1,0 +1,14 @@
+.home {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.about {
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+.contact {
+    text-align: center;
+    margin: 50px 0;
+}
